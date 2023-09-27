@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "banner": "^0.0.5",
+    "cli-calculator-1": "^1.1.0",
+    "cli-calculator-2": "^1.0.0",
+    "inquirer": "^9.2.11",
+    "node": "^20.6.0"
+  }
+}
